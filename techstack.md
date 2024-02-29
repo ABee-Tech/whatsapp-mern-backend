@@ -3,10 +3,10 @@
 ## Tech Stack
 ABee-Tech/whatsapp-mern-backend is built on the following main stack:
 
-- [Pusher](http://pusher.com) – Realtime Backend / API
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
+- [Pusher](http://pusher.com) – Realtime Backend / API
 
 Full tech stack [here](/techstack.md)
 
@@ -16,10 +16,10 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ABee-Tech/whatsapp-mern-backend is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/115/preview.png' alt='Pusher'/> [Pusher](http://pusher.com) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' alt='Mongoose'/> [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/115/preview.png' alt='Pusher'/> [Pusher](http://pusher.com) – Realtime Backend / API
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ABee-Tech/whatsapp-mern-backend](https://github.com/ABee-Tech/whatsapp-mern-backend)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/05/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
